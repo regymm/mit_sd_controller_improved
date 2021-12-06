@@ -110,6 +110,4 @@ My PMOD extension board is different from this but also works.
 
 ### License
 
-I don't know the license of the original file, but I have seen this file in some github repos with different licenses... 
-
-So for what I wrote, WTFPL. 
+GPL-v3. Original author has approved the use of his code in GPL-v3 projects. 
